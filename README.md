@@ -58,7 +58,7 @@
 </a>
 
 <!-- GitHub streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whizydan&theme=radical" alt="Github Streak/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whizydan&theme=radical" alt="Github Streak"/>
 
 <!-- Dynamic trophy stats -->
 <img src="https://github-profile-trophy.vercel.app/?username=whizydan&theme=radical&row=2&column=4" alt="GitHub Trophies" />
