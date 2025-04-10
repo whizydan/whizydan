@@ -95,7 +95,7 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
 
 <!-- Replace with your featured repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whizydan&repo=Petsate&theme=radical)](https://github.com/whizydan/petstate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whizydan&repo=Petsate&theme=radical)](https://github.com/whizydan/Petstate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whizydan&repo=budget-tracking-flutter-app&theme=radical)](https://github.com/whizydan/budget-tracking-flutter-app)
 </div>
 
