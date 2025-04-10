@@ -58,7 +58,7 @@
 </a>
 
 <!-- GitHub streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whizydan&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whizydan&theme=radical" alt="GitHub Streak" />
 
 <!-- Dynamic trophy stats -->
 <img src="https://github-profile-trophy.vercel.app/?username=whizydan&theme=radical&row=2&column=4" alt="GitHub Trophies" />
@@ -76,7 +76,7 @@
 </a>
 
 <a href="https://github.com/whizydan/Petstate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whizydan&repo=Petsate&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whizydan&repo=Petstate&theme=radical" />
 </a>
 
 <a href="https://github.com/whizydan/budget-tracking-flutter-app">
